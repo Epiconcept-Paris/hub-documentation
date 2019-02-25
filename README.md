@@ -5,7 +5,7 @@
 
 ## Documentations internes techniques voozanoo4
 - [Wiki voozanoo4](https://github.com/Epiconcept-Paris/Voozanoo4/wiki)
-- Documentation Technique Epiconcept](https://github.com/Epiconcept-Paris/documentation-technique)
+- [Documentation Technique Epiconcept](https://github.com/Epiconcept-Paris/documentation-technique)
 
 ## Documentations internes infrastructure
 - [Notes équipe Infra](https://github.com/Epiconcept-Paris/infra-notes)

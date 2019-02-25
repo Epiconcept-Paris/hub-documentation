@@ -3,15 +3,15 @@
 
 
 ### Documentations publiques
-- [Epidocs](https://epiconcept-paris.github.io/epidocs/)
-- [Manuels sur le site web Epiconcept](http://www2.voozanoo.net/fr/node/136)
+- **[Epidocs](https://epiconcept-paris.github.io/epidocs/)**
+- **[Manuels sur le site web Epiconcept](http://www2.voozanoo.net/fr/node/136)**
 
 ### Documentations internes techniques
-- [Wiki Voozanoo 4](https://github.com/Epiconcept-Paris/Voozanoo4/wiki) - _Ce qui ne peut pas être sur Epidocs_
-- [Documentation technique Epiconcept](https://github.com/Epiconcept-Paris/documentation-technique/wiki) - _Alimenté essentiellement pas les correspondants infra_
-- [Wiki Framework](https://github.com/Epiconcept-Paris/framework/wiki) - _Procédures internes et rapports de situation_
+- **[Wiki Voozanoo 4](https://github.com/Epiconcept-Paris/Voozanoo4/wiki)** - _Ce qui ne peut pas être sur Epidocs_
+- **[Documentation technique Epiconcept](https://github.com/Epiconcept-Paris/documentation-technique/wiki)** - _Alimenté essentiellement pas les correspondants infra_
+- **[Wiki Framework](https://github.com/Epiconcept-Paris/framework/wiki)** - _Procédures internes et rapports de situation_
 
 ### Documentations internes infrastructure
-- [Notes de l'équipe Infra](https://github.com/Epiconcept-Paris/infra-notes)
-- [Journaux de l'équipe Infra](https://github.com/Epiconcept-Paris/infra-journals)
-- [Scripts Framework](https://github.com/Epiconcept-Paris/infra-fwk-scripts)
+- **[Notes de l'équipe Infra](https://github.com/Epiconcept-Paris/infra-notes)**
+- **[Journaux de l'équipe Infra](https://github.com/Epiconcept-Paris/infra-journals)**
+- **[Scripts Framework](https://github.com/Epiconcept-Paris/infra-fwk-scripts)**

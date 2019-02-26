@@ -12,6 +12,7 @@
 - **[Wiki Framework](https://github.com/Epiconcept-Paris/framework/wiki)** - _Procédures internes et rapports de situation_
 
 ### Documentations internes infrastructure
+- **[Infra doctech](https://github.com/Epiconcept-Paris/infra-doctech/wiki)**
 - **[Notes de l'équipe Infra](https://github.com/Epiconcept-Paris/infra-notes)**
 - **[Journaux de l'équipe Infra](https://github.com/Epiconcept-Paris/infra-journals)**
 - **[Scripts Framework](https://github.com/Epiconcept-Paris/infra-fwk-scripts)**
